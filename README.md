@@ -7,5 +7,16 @@
 ## ターミナルに打ったコマンド
 
 ```
-【この行を削除して、ターミナルに打ったコマンドをコピペする】
+print("Hello,Ruby. \n")
+
+$ ruby helloruby.rb
+Hello,Ruby.
+```
+
+```
+$ irb
+irb(main):001:0> print("Hello,Ruby. \n")
+Hello,Ruby.
+=> nil
+irb(main):002:0>
 ```
